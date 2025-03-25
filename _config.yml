@@ -1,4 +1,4 @@
-title: "My personal website"
+title: "Ahana Chattopadhyay"
 author: "Ahana Chattopadhyay"
 description: "Université de Lorraine"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV_M2stage.pdf", title: "CV"}
+  - {title: "CV", url: "https://drive.google.com/file/d/1ph_85vEsrZ4DMtF_p0oVL6kuejzdTcYr/view?usp=sharing"}
   - {file: "project.md", title: "Projects"}
   - {file: "blog.md", title: "Blogs"}
 
