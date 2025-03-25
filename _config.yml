@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV_M2 TAL_stage M2 (new).pdf", title: "CV"}
+  - {file: "CV_M2stage.pdf", title: "CV"}
   - {file: "project.md", title: "Projects"}
   - {file: "blog.md", title: "Blogs"}
 
