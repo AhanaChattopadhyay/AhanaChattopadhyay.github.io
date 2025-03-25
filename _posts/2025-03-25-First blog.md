@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Exploring NLP"
+date: 2025-03-26
+categories: [blog]
+excerpt_separator: "\n\n\n"
+---
+
+I created this page with the help of this YouTube video:
+[Link to the video](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=1339s)
+
