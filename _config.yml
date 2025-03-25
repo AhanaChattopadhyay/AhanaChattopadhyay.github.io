@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV_M2 TAL_stage M2.pdf", title:"CV", icon:home}
-  - {file: "project.md", title:"Projects", icon:address-bar}
-  - {file: "blog.md", title:"Blogs", icon:pen}
+  - {file: "CV_M2 TAL_stage M2.pdf", title: "CV", icon: home}
+  - {file: "project.md", title: "Projects", icon: address-bar}
+  - {file: "blog.md", title: "Blogs", icon: pen}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "oldfilesstorage1@gmail.com"}
