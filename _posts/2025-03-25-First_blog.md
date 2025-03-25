@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring NLP"
+title: "First Blog"
 date: 2025-03-25
 categories: [blog]
 excerpt_separator: "\n\n\n"
