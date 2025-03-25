@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blogs"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "oldfilesstorage1@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:oldfilesstorage1@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/AhanaChattopadhyay"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/ahana-chattopadhyay-509815226/"}
 
