@@ -1,5 +1,3 @@
-# My Publications
-
 This page lists my published reports and articles.
 
 ---
@@ -28,3 +26,5 @@ This page lists my published reports and articles.
 
 
 *Last updated: May 13, 2025*
+
+
