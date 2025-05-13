@@ -4,8 +4,6 @@ title: "Blogs"
 permalink: /blogs/
 ---
 
-# My Blog Posts
-
 Here are all my latest blog posts:
 
 {% for post in site.posts %}
