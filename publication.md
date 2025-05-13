@@ -17,7 +17,8 @@ annotate the lexical neighbours of the target soleil in a small French subcorpus
 
 ## Articles
 
-### [Article Title 1](link-to-article-1.html)
+### [Ressources lexicales pour la sémantique : WordNet, BabelNet,
+ PropBank, FrameNet, DBpedia et SUMO]
 * **Publication:** Atelier 4AS (CORIA-TALN 2025)
 * **Date:** To be updated
 * **Keywords:**  Ressources lexicales, sémantique, WordNet, BabelNet, PropBank, FrameNet, DBpedia, SUMO, traitement automatique du langage naturel
