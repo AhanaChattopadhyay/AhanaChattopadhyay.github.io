@@ -15,7 +15,7 @@ annotate the lexical neighbours of the target soleil in a small French subcorpus
 
 ---
 
-## Articles
+## Papers
 
 ### [Ressources lexicales pour la sémantique : WordNet, BabelNet, PropBank, FrameNet, DBpedia et SUMO](coming-soon)
 * **Publication:** Atelier 4AS (CORIA-TALN 2025)
