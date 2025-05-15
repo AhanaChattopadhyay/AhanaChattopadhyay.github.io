@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About me"
+title: "Personal Website"
 ---
 > <img src="/assets/images/internship_photo.png" alt="Profile photo" width="70" style="float: left; margin-right: 15px; border-radius: 50%; border: 2px solid #ddd;">
 >
