@@ -16,12 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - title: "CV"
-    children:
-      - title: "EN CV"
-        url: /CV_M2 NLP_PhD_corrected.pdf
-      - title: "FR CV"
-        url: /CV_M2 TAL_doctorat.pdf
+  - {title: "CV (EN)", url: "/CV_M2_NLP_PhD_corrected.pdf"}
+  - {title: "CV (FR)", url: "/CV_M2_TAL_doctorat.pdf"}
   - {file: "publication.md", title: "Publications"}
   - {file: "blog.md", title: "Blogs"}
 
