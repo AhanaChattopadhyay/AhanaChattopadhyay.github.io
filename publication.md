@@ -17,7 +17,7 @@ This page lists my published reports and articles.
 
 ### [Ressources lexicales pour la sémantique : WordNet, BabelNet, PropBank, FrameNet, DBpedia et SUMO]()
 * **Publication:** Atelier 4AS (CORIA-TALN 2025)
-* **Date:** To be updated
+* **Date:** June 30, 2025
 * **Keywords:**  Ressources lexicales, sémantique, WordNet, BabelNet, PropBank, FrameNet, DBpedia, SUMO, traitement automatique du langage naturel
 * **Abstract:** Cet article offre un aperçu concis des ressources lexicales ci-après, dans le cadre de la sémantique computationnelle : WordNet, BabelNet, PropBank, FrameNet, DBpedia et SUMO. L’accent est mis sur leur structure et leur application.
 
@@ -26,6 +26,6 @@ This page lists my published reports and articles.
 ---
 
 
-*Last updated: May 13, 2025*
+*Last updated: June 04, 2025*
 
 
