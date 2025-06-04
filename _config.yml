@@ -16,7 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "https://drive.google.com/file/d/1kGPw_zrs7dNHS2zmSm6Feqzi1mhhpn44/view?usp=sharing"}
+  - title: "CV"
+    children:
+      - title: "EN CV"
+        file: CV_M2 NLP_PhD_corrected.pdf
+      - title: "FR CV"
+        file: CV_M2 TAL_doctorat.pdf
   - {file: "publication.md", title: "Publications"}
   - {file: "blog.md", title: "Blogs"}
 
