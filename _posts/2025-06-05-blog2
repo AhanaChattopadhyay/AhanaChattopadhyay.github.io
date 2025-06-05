@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Enabling GPU use with PyTorch"
+date: 2025-06-05
+categories: [blog]
+excerpt_separator: "\n\n\n"
+---
+
+I struggled yesterday to work my way out with the problem. Here's the video that saved me today: [Link to the video](https://www.youtube.com/watch?v=nATRPPZ5dGE)
