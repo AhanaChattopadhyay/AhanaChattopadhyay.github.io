@@ -3,12 +3,12 @@ This page lists my published reports and articles.
 ---
 
 ## Reports
+
 ### [Investigations into the semantics of privative adjectives](https://hal.univ-lorraine.fr/hal-05230479)
 * **Context:** Master's Thesis
 * **Date:** August 28, 2025
 * **Keywords:** ACG, ACGtk, event semantics, perspective semantics
 * **Abstract:** This thesis proposes a novel treatment of the privative adjective “fake” based on perspective semantics, introduced by de Groote and Bernard (2024). The foundation of this work is laid by Guerrini (2024)’s previous work on “fake”.
-
 
 
 ### [An analysis of the relevance of lexical neighbours present in the fr-LN for the annotation in lexical senses](https://perso.atilf.fr/sollinge/wp-content/uploads/sites/13/2025/04/Stage_Ahana__Copy.pdf)
