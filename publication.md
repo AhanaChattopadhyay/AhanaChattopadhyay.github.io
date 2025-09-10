@@ -4,7 +4,7 @@ This page lists my published reports and articles.
 
 ## Reports
 
-### [Investigations into the semantics of privative adjectives](https://hal.univ-lorraine.fr/hal-05230479)
+### [Investigations into the semantics of privative adjectives](https://hal.univ-lorraine.fr/hal-05248112)
 * **Context:** Master's Thesis
 * **Date:** August 28, 2025
 * **Keywords:** ACG, ACGtk, event semantics, perspective semantics
