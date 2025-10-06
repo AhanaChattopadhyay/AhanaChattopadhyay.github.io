@@ -33,6 +33,6 @@ This page lists my published reports and articles.
 ---
 
 
-*Last updated: August 29, 2025*
+*Last updated: October 07, 2025*
 
 
