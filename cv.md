@@ -1,17 +1,16 @@
-# Curriculum Vitae
 
 
 ---
 
 ## Education
-### Cifre PhD in Computer Science
-**Company:** Orange
-**Institution:** University of Lorraine
-**Laboratory:** LORIA, Nancy
-**Location:** Lannion, France 
-**Duration:** April 2026 – Present 
-**Supervisor:** [Maxime Amblard](https://members.loria.fr/MAmblard/)
-**Co-supervisor:** Johannes Heinecke
+### Cifre PhD in Computer Science \
+**Company:** Orange \
+**Institution:** University of Lorraine \
+**Laboratory:** LORIA, Nancy \
+**Location:** Lannion, France \
+**Duration:** April 2026 – Present \
+**Supervisor:** [Maxime Amblard](https://members.loria.fr/MAmblard/) \
+**Co-supervisor:** Johannes Heinecke \
 
 
 ### Masters in Natural Language Processing
