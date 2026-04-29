@@ -24,7 +24,7 @@
 **Institution:** University of Burdwan \
 **Location:** Chandannagar, India  \
 **Duration:** 2019 – 2022 \
-**Grade:**  CGPA 8.89 \
+**Grade:**  CGPA 8.89 
 
 
 ---
@@ -36,7 +36,7 @@
 **Location:** Nancy, France  \
 **Duration:** March 2025 - August 2025 \
 **Supervisor:** [Philippe de Groote](https://members.loria.fr/PDegroote/) \
-**Details:**  \
+**Details:**  
 - Propose a compositional treatment of private adjectives 
 - Compare existing approaches 
 - Propose a new theoretical model and formalize this approach 
@@ -45,7 +45,7 @@
 **Location:** Nancy, France   \ 
 **Duration:** July 2024 - August 2024 \
 **Supervisors:** [Sandrine Ollinger](https://perso.atilf.fr/sollinge/) and [Alain Polguère](https://perso.atilf.fr/apolguere/fr/accueil/) \
-**Details:**  \
+**Details:**  
 - Theory and practice of lexicography 
 - Mastery of automatic corpus annotation tools 
 - Automatic lexical disambiguation
@@ -54,7 +54,7 @@
 ### Part time French teacher at [Sister Nivedita University](https://www.snuniv.ac.in/)
 **Location:** Kolkata, India \
 **Duration:** September 2022 - June 2023 \
-**Details:**  \
+**Details:**  
 -  Beginner course in French for students from Bachelor’s Degree to Master’s Degree 
 - FOS course for hotel and restaurant students 
 - Facilitation of conversational workshops 
@@ -65,9 +65,9 @@
 
 ## Academic Achievements
 ### Honors & Awards
-- ATALA grant for participation in the CORIA-TALN conference, 2025 \
-- 2024-25 Orion Excellence Scholarship \
-- Graduated with Rank 1 in the university for my undergraduate degree \
+- ATALA grant for participation in the CORIA-TALN conference, 2025 
+- 2024-25 Orion Excellence Scholarship 
+- Graduated with Rank 1 in the university for my undergraduate degree 
 - DALF C2 diploma, 2024
 
 
