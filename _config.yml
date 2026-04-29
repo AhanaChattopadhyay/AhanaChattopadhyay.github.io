@@ -18,11 +18,11 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV (EN)", url: "/assets/files/CV_CIFRE_EN.pdf"}
   - {title: "CV (FR)", url: "/assets/files/CV_CIFRE_FR.pdf"}
-  - {file: "publication.md", title: "Publications"}
+  - {title: "Publications", url: "https://scholar.google.com/citations?hl=en&user=_BPJvuEAAAAJ"}
   - {file: "blog.md", title: "Blogs"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:ahanapratyay@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:ahana.chattopadhyay@orange.com"}
   - {title: Github, icon: github, url: "https://github.com/AhanaChattopadhyay"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/ahana-chattopadhyay-509815226/"}
 
