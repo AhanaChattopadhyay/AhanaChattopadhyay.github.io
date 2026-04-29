@@ -45,11 +45,12 @@
 **Location:** Nancy, France  \
 **Duration:** July 2024 - August 2024 \
 **Supervisors:** [Sandrine Ollinger](https://perso.atilf.fr/sollinge/) and [Alain Polguère](https://perso.atilf.fr/apolguere/fr/accueil/) \
+**Internship Report:** [Link](https://perso.atilf.fr/sollinge/wp-content/uploads/sites/13/2025/04/Stage_Ahana__Copy.pdf) \
 **Details:**  
 - Theory and practice of lexicography 
 - Mastery of automatic corpus annotation tools 
-- Automatic lexical disambiguation \
-**Internship Report:** [Link](https://perso.atilf.fr/sollinge/wp-content/uploads/sites/13/2025/04/Stage_Ahana__Copy.pdf) 
+- Automatic lexical disambiguation 
+
 
 ### Part time French teacher at [Sister Nivedita University](https://www.snuniv.ac.in/)
 **Location:** Kolkata, India \
