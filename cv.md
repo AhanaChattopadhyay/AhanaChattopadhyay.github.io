@@ -48,7 +48,7 @@
 **Details:**  
 - Theory and practice of lexicography 
 - Mastery of automatic corpus annotation tools 
-- Automatic lexical disambiguation
+- Automatic lexical disambiguation \
 **Internship Report:** [Link](https://perso.atilf.fr/sollinge/wp-content/uploads/sites/13/2025/04/Stage_Ahana__Copy.pdf) 
 
 ### Part time French teacher at [Sister Nivedita University](https://www.snuniv.ac.in/)
