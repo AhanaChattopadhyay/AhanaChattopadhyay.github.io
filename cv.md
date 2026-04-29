@@ -17,14 +17,14 @@
 ### Masters in Natural Language Processing
 **Institution:** [IDMC, University of Lorraine](https://idmc.univ-lorraine.fr/)  
 **Location:** Nancy, France
-**Years:** 2023 – 2025
+**Duration:** 2023 – 2025
 **Grade:** 15.171 and 15.195 in M1 and M2 respectively
 
 
 ### Bachelor of Arts in French
 **Institution:** University of Burdwan 
 **Location:** Chandannagar, India  
-**Years:** 2019 – 2022 
+**Duration:** 2019 – 2022 
 **Grade:**  CGPA 8.89
 
 
