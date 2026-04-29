@@ -42,7 +42,7 @@
 - Propose a new theoretical model and formalize this approach 
 
 ### Intern at [ATILF](https://www.atilf.fr/)
-**Location:** Nancy, France \ 
+**Location:** Nancy, France  \
 **Duration:** July 2024 - August 2024 \
 **Supervisors:** [Sandrine Ollinger](https://perso.atilf.fr/sollinge/) and [Alain Polguère](https://perso.atilf.fr/apolguere/fr/accueil/) \
 **Details:**  
