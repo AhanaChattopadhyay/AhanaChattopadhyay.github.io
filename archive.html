@@ -3,11 +3,50 @@ title: "Blog"
 layout: default
 ---
 
+<style>
+  .archive-list {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .archive-list > div {
+    display: grid;
+    grid-template-columns: 110px minmax(0, 1fr);
+    gap: 14px;
+    align-items: baseline;
+    margin-bottom: 8px;
+  }
+
+  .archive-list time {
+    position: static !important;
+    margin: 0 !important;
+    transform: none !important;
+    white-space: nowrap;
+  }
+
+  .archive-list a {
+    margin: 0;
+    text-decoration: none;
+  }
+</style>
+
 <main>
-  <header><h1>{{ include.title | default: page.title }}</h1></header>
+  <header>
+    <h1>{{ include.title | default: page.title }}</h1>
+  </header>
+
   <nav class="archive-list">
     {% for post in site.posts %}
-    <div><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      <div>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%Y-%m-%d" }}
+        </time>
+
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </div>
     {% endfor %}
   </nav>
 </main>
