@@ -12,7 +12,7 @@ title: "About me"
 
 <ul style="list-style-type:square;">
   <li>
-    August 2026: Will be attending the summer school<a href="https://2026.esslli.eu/">ESSLLI 2026</a>.
+    August 2026: Will be attending the summer school <a href="https://2026.esslli.eu/">ESSLLI 2026</a>.
   </li>
 
   <li>
