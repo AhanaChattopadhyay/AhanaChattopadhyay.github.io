@@ -39,6 +39,11 @@ permalink: /blogs/
       gap: 4px;
     }
   }
+
+    /* Add it here */
+  main {
+    padding-left: 55px;
+  }
 </style>
 
 <main>
